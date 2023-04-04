@@ -38,6 +38,7 @@ def student_info():
             print(f"{first_name}, {last_name} made the Honor Roll!")
         else:
             print(f"{first_name}, {last_name} did not qualify for Dean's List or Honor Roll.")
+    exit()
 
 
 student_info()
